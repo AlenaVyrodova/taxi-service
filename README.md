@@ -3,21 +3,21 @@
 -------
 
 ## Taxi-service
-  [ Project description ]
-  [ Features ]
-  [ Technologies ]
-  [ Application start ]
+  [ *Description*](#description)
+  [ *Features* ](#features)
+  [ *Technologies *](#technologies)
+  [* Application start* ](#application-start)
 
 ---------------
 
-## **Project description**
+## *Description*
 
 This is a simple web application for working with a taxi service. 
 The application allows you to create cars, manufacturers, drivers and attach drivers to the cars.
 
 ---------------
 
-## **Features**
+## *Features*
 - register as driver
 - login as driver
 - display all drivers
@@ -34,7 +34,7 @@ The application allows you to create cars, manufacturers, drivers and attach dri
 
 ---------------------------------
 
-## **Technologies**
+## *Technologies*
 - JDK
 - MySQL
 - TomCat
@@ -43,7 +43,7 @@ The application allows you to create cars, manufacturers, drivers and attach dri
 - HTTP
 
 -------
-## **Application start**
+## *Application start*
 * Clone the project to your IDE from GitHub.
 * Create a DB, schemas and tables in your DBMS using data from file init_db.sql from package resources.
 * Configure connection to DB in ConnectionUtil class with URL, username and password.
