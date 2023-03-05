@@ -1,12 +1,12 @@
-               #  TAXI-SERVICE _🚕_
+# TAXI-SERVICE _🚕_
 
 -------
 
 ## Taxi-service
-  [ *Description*](#description)
-  [ *Features* ](#features)
-  [ *Technologies *](#technologies)
-  [* Application start* ](#application-start)
+ * [ Description](#description)
+ * [ Features ](#features)
+ * [ Technologies ](#technologies)
+ * [ Application start ](#application-start)
 
 ---------------
 
