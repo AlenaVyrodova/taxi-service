@@ -1,4 +1,4 @@
-# TAXI-SERVICE _🚕_
+# TAXI-SERVICE 🚕
 
 -------
 
@@ -35,12 +35,15 @@ The application allows you to create cars, manufacturers, drivers and attach dri
 ---------------------------------
 
 ## *Technologies*
-- JDK
-- MySQL
-- TomCat
+- JDK    v.17
+- MySQL  v.8.0.32
+- TomCat v.9.0.72
+- Maven  v.3.1.1
 - CSS
 - JSP/JSTL
 - HTTP
+- GIT
+- Servlets
 
 -------
 ## *Application start*
